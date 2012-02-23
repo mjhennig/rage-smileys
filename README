@@ -1,0 +1,7 @@
+This is a collection of rage characters prepared as custom smileys for XMPP (and
+other IM protocols that support it). I have scaled all characters to a height of
+either 32 or 64 pixels, added alpha channel transparence, added light outlines for
+dark backgrounds and reworked texts and other details in order to keep them
+distinguishable when scaled down to that size.
+
+If you are using Pidgin, you can install them by running the 'install.py' script.
